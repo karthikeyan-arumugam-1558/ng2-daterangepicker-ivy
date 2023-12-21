@@ -14,11 +14,11 @@
     "daterangepicker": "^3.0.5"
   },
   "peerDependencies": {
-    "@angular/common": "^9.0.1",
-    "@angular/core": "^9.0.1",
-    "tslib": "^1.10.0",
-    "jquery": "^3.4.1",
-    "@types/jquery": "^3.3.32"
+    "@angular/common": "*",
+    "@angular/core": "*",
+    "tslib": "*",
+    "jquery": "*",
+    "@types/jquery": "*"
   },
   "sideEffects": ["*.css"]
 }
